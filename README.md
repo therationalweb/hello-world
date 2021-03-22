@@ -1,2 +1,2 @@
 # hello-world
-Sample repository
+Sample repository. For learning Git.
